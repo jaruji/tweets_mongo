@@ -1,0 +1,23 @@
+{
+  "name": "tweets_mongo",
+  "version": "1.0.0",
+  "description": "converting sql tweets to nosql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaruji/tweets_mongo.git"
+  },
+  "author": "jaruji",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaruji/tweets_mongo/issues"
+  },
+  "homepage": "https://github.com/jaruji/tweets_mongo#readme",
+  "dependencies": {
+    "mongodb": "^4.2.0",
+    "pg": "^8.7.1"
+  }
+}
